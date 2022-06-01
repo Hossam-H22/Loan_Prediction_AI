@@ -3,7 +3,7 @@ Banks' primary business is lending. The main source of profit is the interest on
 After an extensive verification and validation process, the loan companies grant a loan, but they do not have assurance that the applicant will be able to repay the loan without difficulty.
 Thus, our loan predictor has been built to help loan companies in deciding whether to accept or reject a requested loan from an applicant. The loan predictor can achieve this as it applies AI concepts, data analysis techniques, in addition to performing a comparison between five Algorithms - *Logistic Regression*, *Support Vector Machine*, *Decision Tree ID3*, *KNN* - *Random Forest Classifier* to achieve the best accuracy overall.
 
-<br><br>
+<br>
 
 |                        Our Team Members                            | 
 | ------------------------------------------------------------------ | 
@@ -14,10 +14,10 @@ Thus, our loan predictor has been built to help loan companies in deciding wheth
 |       *<a href="https://github.com/0mar01">Omar Khaled</a>*        | 
 |      *<a href="https://github.com/aya-mourad">Aya Usama</a>*       |
 
-<br><br>
+<br>
 
 > ## Project goals
-    • The project's purpose is to forecast if an applicant can take out a loan or not based on the available features such as Loan amount, Material status, Gender, Number of dependents, and Credit history.
+The project's purpose is to forecast if an applicant can take out a loan or not based on the available features such as Loan amount, Material status, Gender, Number of dependents, and Credit history.
 
 <br>
 
@@ -29,6 +29,6 @@ Thus, our loan predictor has been built to help loan companies in deciding wheth
             c. Remove Extreme Values.
     2. Machine Learning Models Comparison. a. Model Building. b. Model Evaluation. c. Model Optimization.
 
-<br>
+<!-- [Loan Prediction.pdf](https://github.com/Dragon-H22/Loan_Prediction_AI/files/8814750/Loan.Prediction.pdf) -->
 
-#### <a href="">here for more details</a>
+#### <a href="https://github.com/Dragon-H22/Loan_Prediction_AI/files/8814750/Loan.Prediction.pdf">here for more details</a>

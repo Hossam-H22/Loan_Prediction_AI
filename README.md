@@ -31,4 +31,4 @@ The project's purpose is to forecast if an applicant can take out a loan or not 
 
 <!-- [Loan Prediction.pdf](https://github.com/Dragon-H22/Loan_Prediction_AI/files/8814750/Loan.Prediction.pdf) -->
 
-#### <a href="https://github.com/Dragon-H22/Loan_Prediction_AI/files/8814750/Loan.Prediction.pdf">here for more details</a>
+#### <a href="https://github.com/Dragon-H22/Loan_Prediction_AI/files/8814750/Loan.Prediction.pdf">Click Here For More Details</a>

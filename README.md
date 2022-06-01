@@ -22,12 +22,12 @@ The project's purpose is to forecast if an applicant can take out a loan or not 
 <br>
 
 > ## Directions
-    1. Data Preprocessing.
+    A. Data Preprocessing.
         - Data Cleansing.
-            a. Handling Nulls.
-            b. Categorical Values.
-            c. Remove Extreme Values.
-    2. Machine Learning Models Comparison. a. Model Building. b. Model Evaluation. c. Model Optimization.
+            1. Handling Nulls.
+            2. Categorical Values.
+            3. Remove Extreme Values.
+    B. Machine Learning Models Comparison. a. Model Building. b. Model Evaluation. c. Model Optimization.
 
 <!-- [Loan Prediction.pdf](https://github.com/Dragon-H22/Loan_Prediction_AI/files/8814750/Loan.Prediction.pdf) -->
 

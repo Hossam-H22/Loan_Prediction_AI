@@ -5,14 +5,14 @@ Thus, our loan predictor has been built to help loan companies in deciding wheth
 
 <br>
 
-|                        Our Team Members                            | 
-| ------------------------------------------------------------------ | 
-|    *<a href="https://github.com/Dragon-H22/">Hossam Hatem</a>*     | 
-| *<a href="https://github.com/BassantHossam20">Bassant Hossam</a>*  | 
-|  *<a href="https://github.com/KarimMetwaly19">Karim Metwaly</a>*   | 
-|      *<a href="https://github.com/OsaamaAlaa">Usama Alaa</a>*      | 
-|       *<a href="https://github.com/0mar01">Omar Khaled</a>*        | 
-|      *<a href="https://github.com/aya-mourad">Aya Usama</a>*       |
+|                                  Our Team Members                                  | 
+| ---------------------------------------------------------------------------------- | 
+|    *<a href="https://github.com/Dragon-H22/" target="_blank">Hossam Hatem</a>*     | 
+| *<a href="https://github.com/BassantHossam20" target="_blank">Bassant Hossam</a>*  | 
+|  *<a href="https://github.com/KarimMetwaly19" target="_blank">Karim Metwaly</a>*   | 
+|      *<a href="https://github.com/OsaamaAlaa" target="_blank">Usama Alaa</a>*      | 
+|       *<a href="https://github.com/0mar01" target="_blank">Omar Khaled</a>*        | 
+|      *<a href="https://github.com/aya-mourad" target="_blank">Aya Usama</a>*       |
 
 <br>
 

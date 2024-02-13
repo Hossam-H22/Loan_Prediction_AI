@@ -1,13 +1,13 @@
 # Loan Prediction Project
-Banks' primary business is lending. The main source of profit is the interest on the loan.
+The bank's primary business is lending. The main source of profit is the interest on the loan.
 After an extensive verification and validation process, the loan companies grant a loan, but they do not have assurance that the applicant will be able to repay the loan without difficulty.
-Thus, our loan predictor has been built to help loan companies in deciding whether to accept or reject a requested loan from an applicant. The loan predictor can achieve this as it applies AI concepts, data analysis techniques, in addition to performing a comparison between five Algorithms - *Logistic Regression*, *Support Vector Machine*, *Decision Tree ID3*, *KNN* - *Random Forest Classifier* to achieve the best accuracy overall.
+Thus, our loan predictor has been built to help loan companies in deciding whether to accept or reject a requested loan from an applicant. The loan predictor can achieve this as it applies AI concepts, and data analysis techniques, in addition to performing a comparison between five Algorithms - *Logistic Regression*, *Support Vector Machine*, *Decision Tree ID3*, *KNN* - *Random Forest Classifier* to achieve the best accuracy overall.
 
 <br>
 
 |                                  Our Team Members                                  | 
 | ---------------------------------------------------------------------------------- | 
-|    *<a href="https://github.com/Dragon-H22/" target="_blank">Hossam Hatem</a>*     | 
+|    *<a href="https://github.com/Hossam-H22/" target="_blank">Hossam Hatem</a>*     | 
 | *<a href="https://github.com/BassantHossam20" target="_blank">Bassant Hossam</a>*  | 
 |  *<a href="https://github.com/KarimMetwaly19" target="_blank">Karim Metwaly</a>*   | 
 |      *<a href="https://github.com/OsaamaAlaa" target="_blank">Usama Alaa</a>*      | 
